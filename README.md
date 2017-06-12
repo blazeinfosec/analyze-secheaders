@@ -10,7 +10,7 @@ This code was used to perform the survey published on Wildfire Labs blog.
 
 ## Resources
 
-* [A survey on the usage of HTTP security headers in Brazil and Estonia] (https://wildfire.blazeinfosec.com/a-survey-on-the-usage-of-http-security-headers-in-brazil-and-estonia/)
+* [A survey on the usage of HTTP security headers in Brazil and Estonia](https://wildfire.blazeinfosec.com/a-survey-on-the-usage-of-http-security-headers-in-brazil-and-estonia/)
 
 ## Author
 
